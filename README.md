@@ -1,6 +1,6 @@
 # Project Name
 
-![Project Logo](https://link-to-your-image.com/logo.png)
+![Project Logo]([https://imgur.com/0n46Nxa])
 
 ## Table of Contents
 - [Introduction](#introduction)
